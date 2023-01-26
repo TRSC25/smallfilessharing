@@ -1,0 +1,19 @@
+{
+  "inputs": [
+    {
+      "type": "text",
+      "id": "name",
+      "label": "Name"
+    },
+    {
+      "type": "email",
+      "id": "email",
+      "label": "Email"
+    },
+    {
+      "type": "tel",
+      "id": "phone",
+      "label": "Phone"
+    }
+  ]
+}
